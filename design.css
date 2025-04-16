@@ -1,0 +1,66 @@
+body{
+    background-color: beige;
+}
+
+.header
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: navy;
+}
+
+hr {
+    border-width: 10px;
+    border-color: gold;
+}
+#first-ruby {
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
+#flag-button {
+    height: 45px;
+    width: 85px;
+    position: absolute;
+    top: 40px;
+    right: 10px;
+    border: 2px black solid;
+}
+#almost {
+    height: 35px;
+    width: 150px;
+    position: absolute;
+    top: 80px;
+    right: 150px;
+}
+
+.body
+p1 {
+    font-size: 20px;
+}
+#ruby1 {
+    height: 470x;
+    width: 308px;
+}
+#ruby2 {
+    height: 470x;
+    width: 308px;
+}
+#ruby4 {
+    height: 470x;
+    width: 308px;
+}
+#ruby5 {
+    height: 470x;
+    width: 309px;
+}
+
+#giveup {
+    height: 45px;
+    width: 115px;
+    border: 2px black solid;
+    position: absolute;
+    right: 10px;
+}
